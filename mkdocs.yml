@@ -110,7 +110,7 @@ plugins:
       enable_creation_date: true
   - git-authors
   - git-committers:
-      repository: hsandmann/documentation.template
+      repository: Joao-Gabriel05/documentation.template
       branch: main
   - search
   - badges
