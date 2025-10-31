@@ -147,3 +147,4 @@ nav:
     - Order: ./order/index.md
     - Exchange: ./exchange/index.md
     - Jenkins: ./jenkins/index.md
+    - Minikube: ./minikube/index.md

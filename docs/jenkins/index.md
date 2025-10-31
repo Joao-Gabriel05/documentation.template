@@ -11,7 +11,7 @@ Our Jenkins CI/CD pipeline is composed of four key stages:
 ## Architecture Diagrams
 
 === "Jenkins"
-    ![Detailed Jenkins pipeline visualization](./img/jenkins.png){ width=100% }
+    ![Detailed Jenkins pipeline visualization](./img/jenkins_1.png){ width=100% }
 
     ### Microservice Pipeline
 
@@ -48,7 +48,6 @@ pipeline {
     }
 }
 ```
-
 
 ### Contract Pipeline
 
